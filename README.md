@@ -19,7 +19,7 @@ Para configurar tu entorno para el proyecto AutoFemurLoc:
    ```bash
    python3 -m venv env
 
-4. Activa el entorno virtual::
+4. Activa el entorno virtual:
 
    ```bash
    source env/bin/activate
@@ -61,4 +61,4 @@ Para configurar tu entorno para el proyecto AutoFemurLoc:
 
 ## Ejemplo de uso 
 
-Dentro del repositorio se provee un ejemplo de uso en unnotebook, también hay una imagen para probar el algoritmo propuesto. 
+Dentro del repositorio se provee un ejemplo de uso en un notebook, también hay una imagen para probar el algoritmo propuesto. 

@@ -5,3 +5,6 @@ __pycache__/
 
 # Ignorar el entorno virtual
 femurenv/
+
+# Ignorar dicom files
+*.dcm
